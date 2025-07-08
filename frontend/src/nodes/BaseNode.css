@@ -1,0 +1,35 @@
+.custom-node {
+  background: #ffffff;
+  border: 2px solid #4a90e2;
+  border-radius: 8px;
+  padding: 10px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+  width: 200px;
+  min-height: 150px;
+}
+
+.custom-node h4 {
+  margin: 0 0 8px;
+  font-size: 16px;
+  color: #333;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 4px;
+}
+
+
+.custom-node input,
+.custom-node select {
+  width: 80%;
+  padding: 6px 8px;
+  margin-top: 4px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.custom-node textarea{
+    width: 100%;
+    min-height: 40px;
+    resize: none;
+    overflow: hidden;
+}
