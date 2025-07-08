@@ -36,8 +36,8 @@ VectorShift/
 
 ## 🔗 Live Links
 
-- 🚀 **Frontend (Netlify):**  https://vectornode-editor.netlify.app/
-- ⚙️ **Backend (Render):**  https://vectorshift-ass.onrender.com
+- 🚀 **Frontend (Netlify):**  [https://vectornode-editor.netlify.app/](https://vectorshift-pipeline.netlify.app/)
+- ⚙️ **Backend (Render):**  [https://vectorshift-ass.onrender.com](https://vectorshift-ass.onrender.com)
 
 ---
 
@@ -71,8 +71,8 @@ Deployed using:
 👨‍💻 Author
 Sathya Arumugam
 
-🌐 Portfolio :  https://sathy-portfolio7.netlify.app
+🌐 Portfolio : https://sathy-portfolio7.netlify.app
 
-💻 GitHub    :
+💻 GitHub    : https://github.com/kuttysathya
 
 📫 Email     : kuttysathya@gmail.com
